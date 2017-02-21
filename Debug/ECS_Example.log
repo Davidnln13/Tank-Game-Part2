@@ -1,0 +1,17 @@
+﻿  TankAi.cpp
+c:\users\c00204958\desktop\ecs_example-master\ecs_example-master\src\ai\tankai.cpp(97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00204958\desktop\ecs_example-master\ecs_example-master\src\ai\tankai.cpp(142): warning C4018: '<': signed/unsigned mismatch
+  ECS_Example.vcxproj -> C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\Debug\ECS_Example.exe
+  ECS_Example.vcxproj -> C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\Debug\ECS_Example.pdb (Partial PDB)
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-audio-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-audio-d-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-graphics-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-graphics-d-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-network-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-network-d-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-system-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-system-d-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-window-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\sfml-window-d-2.dll
+  C:\Users\c00204958\Desktop\ECS_Example-master\ECS_Example-master\dlls\thor-d.dll
+         11 file(s) copied.
